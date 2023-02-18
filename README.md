@@ -4,4 +4,4 @@ this is a sample clone web page of [manhwaz.com](https://www.manhwaz.com/) webso
 
 ## Preview
 
-![](img/pag-layout.png)
+![](images/page-layout.png)
